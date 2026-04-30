@@ -24,8 +24,6 @@ I am a creative professional focused on building scalable web applications, mobi
 *   **AI Based Tools:** Antigravity, Cursor AI.
 *   **Methodologies:** Agile/Scrum, CI/CD, Test-Driven Development (TDD)
 
-*(Note: You can replace this text list with visual skill badges later if you prefer!)*
-
 ---
 
 ### Featured Projects
