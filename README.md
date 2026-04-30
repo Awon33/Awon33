@@ -16,7 +16,7 @@ I am a creative professional focused on building scalable web applications, mobi
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 *   **Languages:** Python, JavaScript, SQL, C#, HTML5/CSS3.
 *   **Frameworks & Libraries:** React.js, Next.js, Node.js, Express, Django, FastApi. 
