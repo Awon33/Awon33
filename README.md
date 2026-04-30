@@ -1,48 +1,110 @@
-# Hi there, I'm Awon Abbas
+# Hi there I'm Awon Abbas
 
-**Software Developer | Full Stack Developer | Unity Game Developer | AI Developer | Creative Technologist**
+### Software Developer | Full Stack Engineer | Unity Game Developer | AI Developer | Creative Technologist
 
-I am a creative professional focused on building scalable web applications, mobile games. I thrive on solving complex problems and am constantly learning new technologies to improve my craft.
-
----
-
-### About Me
-
-*   **Currently working on:** Test Data Generation Tool as Team Leader and Senior Developer.
-*   **Currently learning:** Machine Learning, Deep Neural Networks, LLM's.
-*   **Looking to collaborate on:** Machine Learning and Unity Game Projects.
-*   **Ask me about:** Full Stack Architeture, Unity game dev, UI/UX design.
-*   **How to reach me:** awon4585@gmail.com
+I am a creative technologist focused on building scalable web applications, intelligent systems, and immersive game experiences.  
+I thrive on solving complex problems and continuously learning cutting-edge technologies in AI and software engineering.
 
 ---
 
-### Tech Stack
+## About Me
 
-*   **Languages:** Python, JavaScript, SQL, C#, HTML5/CSS3.
-*   **Frameworks & Libraries:** React.js, Next.js, Node.js, Express, Django, FastApi. 
-*   **Tools & Platforms:** Git, Docker, PostgreSQL, Linux, Visual Studio Code.
-*   **AI Based Tools:** Antigravity, Cursor AI.
-*   **Methodologies:** Agile/Scrum, CI/CD, Test-Driven Development (TDD)
-
----
-
-### Featured Projects
-
-| Project Name | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Test Data Mutation Tool** | A specialized testing utility that mutates complex input data (such as PowerSimData) to generate faulty test cases, ensuring robust error handling in target systems. | Python, FastAPI, React.js | [GitHub](https://github.com/awon33/testspacearc) |
-| **MangaShop** | A comprehensive e-commerce platform dedicated to manga enthusiasts, featuring a seamless shopping experience with integrated global payment gateways. | Django, Stripe, PayPal | [GitHub](https://github.com/awon33/mangashop) |
+- 🔭 **Currently Working On:** Test Data Generation Tool (Team Leader & Senior Developer)
+- 🌱 **Currently Learning:** Machine Learning, Deep Neural Networks, LLMs
+- 🤝 **Looking to Collaborate On:** Machine Learning & Unity Game Projects
+- 💬 **Ask Me About:** Full Stack Architecture, Unity Game Dev, UI/UX Design
+- 📫 **Reach Me At:** awon4585@gmail.com
 
 ---
 
-### GitHub Stats
+## 🛠 Tech Stack
+
+### Languages
+`Python` `JavaScript` `SQL` `C#` `HTML5` `CSS3`
+
+### Frameworks & Libraries
+`React.js` `Next.js` `Node.js` `Express` `Django` `FastAPI`
+
+### Databases & Tools
+`PostgreSQL` `Docker` `Git` `Linux` `VS Code`
+
+### AI Tools & Technologies
+`Machine Learning` `Deep Learning` `LLMs` `Antigravity` `Cursor AI`
+
+### Methodologies
+`Agile/Scrum` `CI/CD` `Test-Driven Development (TDD)`
+
+---
+
+## Featured Projects
+
+### 🔹 Test Data Mutation Tool
+A specialized testing utility that mutates complex input data (such as PowerSimData) to generate faulty test cases, ensuring robust error handling in target systems.  
+**Tech Stack:** Python, FastAPI, React.js  
+🔗 https://github.com/awon33/testspacearc
+
+---
+
+### 🔹 MangaShop
+A comprehensive e-commerce platform for manga enthusiasts with integrated global payment gateways.  
+**Tech Stack:** Django, Stripe, PayPal  
+🔗 https://github.com/awon33/mangashop
+
+---
+
+# GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AWON33&show_icons=true&theme=transparent&hide_border=true&title_color=1F6FEB&icon_color=1F6FEB&text_color=777777" alt="Your GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=AWON33&show_icons=true&theme=transparent&hide_border=true&title_color=1F6FEB&icon_color=1F6FEB&text_color=777777" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=AWON33&theme=transparent&hide_border=true&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB" height="170"/>
+
 </div>
 
 ---
 
-### Let's Connect
+## Most Used Languages
 
-[LinkedIn](https://www.linkedin.com/in/awon-abbas-94b078262/) • [Portfolio Site](https://prof-creator.netlify.app/)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AWON33&layout=compact&theme=transparent&hide_border=true&title_color=1F6FEB&text_color=777777"/>
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AWON33&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AWON33&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
+
+</div>
+
+---
+
+## 🌍 Let's Connect
+
+🔗 LinkedIn: https://www.linkedin.com/in/awon-abbas-94b078262/  
+🌐 Portfolio: https://prof-creator.netlify.app/
+
+---
+
+### 💡 Vision
+
+> Building intelligent systems, scalable architectures, and immersive digital experiences that merge creativity with technology.
+
+---
+
+⭐ From Awon Abbas
